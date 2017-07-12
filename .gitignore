@@ -1,0 +1,10 @@
+/bazel-bin
+/bazel-ci_build-cache
+/bazel-genfiles
+/bazel-out
+/bazel-im2txt
+/bazel-testlogs
+/bazel-tf
+/model/train/
+.idea/
+*.pyc
